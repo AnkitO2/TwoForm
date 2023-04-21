@@ -1,0 +1,51 @@
+.Home{
+    font-size: 14px;
+    font-weight: 500;
+}
+.heading-Send-E-Email{
+ font-size: 20px;
+ font-weight: 700;
+}
+.Send-Email-Label{
+font-weight: 600;
+}
+.Subject-Paragraph{
+    font-size: 13px;
+    font-weight: 500;
+}
+.Massage-Html{
+    font-size: 13px;
+    font-weight: 500;
+}
+.Send-Email-Paragraph{
+    font-size: 15px;
+    font-weight: 500;
+}
+.Top-Div-One{
+    padding: 15px;
+    border-radius: 4px;
+}
+
+
+.Last-Paragraph{
+    font-size: 13px;
+    font-weight: 500;
+
+}
+
+.Span-Under-last-Paragraph{
+    font-size: 13px;
+    font-weight: 500;
+}
+.Send-button{
+    padding: 8px 40px;
+}
+.Span-Text-Size{
+    font-size: 12px;
+}
+.Option-Select{
+    font-size: 13px;
+}
+.Last-Check-Box{
+    margin-left: 5px;
+}

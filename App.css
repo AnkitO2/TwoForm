@@ -1,0 +1,16 @@
+.red-button {
+  padding: 13px 60px;
+}
+.Label-One {
+  background-color: rgb(192, 235, 254);
+  padding: 15px;
+  border-radius: 4px;
+}
+.Updata-side-label {
+  font-size: 18px;
+  font-weight: bold;
+}
+.Updating-label {
+  font-size: 15px;
+  font-weight: 500;
+}
